@@ -1,0 +1,7 @@
+[32minfo[39m:    {"clientIp":"::1","method":"POST","url":"/auth/sign-up","status":200,"responseTime":"0.54 ms","userAgent":"PostmanRuntime/7.39.0"}
+[32minfo[39m:    {"clientIp":"::1","method":"GET","url":"/","status":304,"responseTime":"2.83 ms","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+[32minfo[39m:    {"clientIp":"::1","method":"POST","url":"/auth/sign-up","status":200,"responseTime":"2.00 ms","userAgent":"PostmanRuntime/7.39.0"}
+[34mdebug[39m:   Executing (default): SELECT 1+1 AS result
+[32minfo[39m:    {"clientIp":"::1","method":"POST","url":"/auth/sign-up","status":200,"responseTime":"1.98 ms","userAgent":"PostmanRuntime/7.39.0"}
+[34mdebug[39m:   Executing (default): SELECT 1+1 AS result
+[34mdebug[39m:   Executing (default): SELECT 1+1 AS result
